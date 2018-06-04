@@ -1,12 +1,19 @@
-# ACIM Document
-### Overview application for employees back office
-#### - Standard Application  
+# ACIM Document 
+## Application for employees back office
+  
+  
+### Overview
+#### - Standard Application [ Eligible ] 
 ![standard]  
  --- 
   
-#### - Special Application
+#### - Special Application [ Non Eligible ]
 ![special]  
----
+---  
+  
+  
+    
+### Document
 - Technical spec
 - Architechture design
 - Service flow
